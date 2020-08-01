@@ -1,4 +1,4 @@
-### 👋 Welcome to my Github profile 😳
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my Github profile
 
 - 🔭 **I’m currently working on**: Automating my school work.
 - 📫 **You can reach me through Discord**: foobball#7416
