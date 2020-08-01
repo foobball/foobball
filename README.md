@@ -3,4 +3,5 @@
 - 🔭 **I’m currently working on**: Automating my school work.
 - 📫 **You can reach me through Discord**: foobball#7416
 - 😄 **Pronouns**: she/her
+- ⚙️ **Languages I use**: Mostly `javascript`, frontend and backend
 - ⚡ **Fun fact**: The flushed emoji is the best emoji 😳😳😳
