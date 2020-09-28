@@ -1,7 +1,9 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my Github profile
+### <img align='center' src="https://github.com/twitter/twemoji/blob/master/assets/72x72/1f44b.png?raw=true" width="30px"> Welcome to my Github profile
 
 - 🔭 **I’m currently working on**: nothing
 - 📫 **You can reach me through Discord**: foob#0001
 - 😄 **Pronouns**: she/her
 - ⚙️ **Languages I use**: Mostly JavaScript, frontend and backend
-- ⚡ **Fun fact**: The flushed emoji is the best emoji 😳😳😳
+- ⚡ **Fun fact**: <a align='center'>The flushed emoji is the best emoji </a><img src='https://github.com/twitter/twemoji/blob/master/assets/72x72/1f633.png?raw=true' align='center' height='20px'>
+
+
