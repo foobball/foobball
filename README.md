@@ -3,7 +3,7 @@
 - 🔭 **I’m currently working on**: nothing
 - 📫 **You can reach me through Discord**: foob#0001
 - 😄 **Pronouns**: she/her
-- ⚙️ **Languages I use**: Mostly JavaScript, frontend and backend
-- ⚡ **Fun fact**: <a align='center'>The flushed emoji is the best emoji </a><img src='https://github.com/twitter/twemoji/blob/master/assets/72x72/1f633.png?raw=true' align='center' height='20px'>
+- ⚙️ **Languages I use**: mostly javascript
+- ⚡ **Fun fact**: <a align='center'>the flushed emoji is the best emoji </a><img src='https://github.com/twitter/twemoji/blob/master/assets/72x72/1f633.png?raw=true' align='center' height='20px'>
 
 
